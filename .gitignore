@@ -1,1 +1,4 @@
+*.iml
 /LessonOutside.iml
+/.idea/
+/out/
